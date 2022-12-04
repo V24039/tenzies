@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/.github.io/tenzies/static/css/main.f0a04899.css",
+    "main.js": "/.github.io/tenzies/static/js/main.139dfafa.js",
+    "index.html": "/.github.io/tenzies/index.html",
+    "main.f0a04899.css.map": "/.github.io/tenzies/static/css/main.f0a04899.css.map",
+    "main.139dfafa.js.map": "/.github.io/tenzies/static/js/main.139dfafa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a04899.css",
+    "static/js/main.139dfafa.js"
+  ]
+}
